@@ -78,7 +78,6 @@ const sentences = [
 
 const articles = [
     "Definite article",
-    "No article",
     "Indefinite article",
     "mein",
     "ihr",
