@@ -72,14 +72,6 @@ const sentences = [
     {
         text: "Das Buch liegt auf (          ).",
         case: "dative"
-    },
-    {
-        text: "Ich hänge das Bild an (          ).",
-        case: "accusative"
-    },
-    {
-        text: "Das Bild hängt an (          ).",
-        case: "dative"
     }
 ];
 
