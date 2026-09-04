@@ -6,6 +6,18 @@
 
 const sentences = [
     {
+    text: "Wir erinnern uns an (          ).",
+    case: "accusative"
+    },
+    {
+    text: "Wir fahren nach (          ).",
+    case: "dative"
+    },
+    {
+    text: "Wir gehen um (          ).",
+    case: "accusative"
+    },
+    {
         text: "Ich sehe (  ).",
         case: "accusative"
     },
